@@ -4,17 +4,15 @@
 
 - 🔭 I’m currently working on **Snapp ( footer + Header + Video snap)**
 
-- . **Hamid / Saeed / Arash and myself**
+- My Teams is : **Hamid / Saeed / Arash and myself**
 
 - . **this prject is a medium level for work.**
 
-- . **My Teams is :**
+- my job [my work is :design of sections ( Footer / Header / Video Snapp and Respansive with Media Query)](my work is :design of sections ( Footer / Header / Video Snapp and Respansive with Media Query))
 
 - . **this project start at shahrivar 1 and finished at shahrivar 15**
 
 - My emails for contact **shayan.0916@vatanmail.ir**
-
-- . [my work is :design of sections ( Footer / Header / Video Snapp and Respansive with Media Query)](my work is :design of sections ( Footer / Header / Video Snapp and Respansive with Media Query))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
